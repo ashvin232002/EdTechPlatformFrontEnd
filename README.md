@@ -6,10 +6,12 @@ This is a starter pack for creating React projects with Tailwind CSS configured.
 ## How to start with
 <pre>
     REACT_APP_BASE_URL= http://localhost:4000/api/v1
+
+    Take the backend part as a Reference
+     URL of the repository : https://github.com/ashvin232002/EDtechPlatformBackend
+
 </pre>
 
-Take th backend part as a Reference
-URL of the repository : https://github.com/ashvin232002/EDtechPlatformBackend
 
 This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
 
