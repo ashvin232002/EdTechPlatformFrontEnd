@@ -1,4 +1,4 @@
-# React & Tailwind CSS Starter Pack
+# EdTechPlatform
 ![image](https://github.com/ashvin232002/EdTechPlatformFrontEnd/assets/120255875/4d462660-0b60-4a15-aa19-e1278ef61e98)
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
